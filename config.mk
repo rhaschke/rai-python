@@ -22,5 +22,5 @@ ROS = 0
 ROS_VERSION = kinetic
 
 ifeq ($(OUTPUT),x.exe)
-PHYSX = 1
+PHYSX = 0
 endif
